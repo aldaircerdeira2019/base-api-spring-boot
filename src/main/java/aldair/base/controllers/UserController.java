@@ -12,7 +12,7 @@ import aldair.base.entities.User;
 import aldair.base.services.UserService;
 
 @RestController
-@RequestMapping(value = "/v1/user")
+@RequestMapping(value = "user")
 public class UserController {
 
       
